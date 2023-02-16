@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oatcat on Oatcat Blog</title>
-    <link>http://oatcat.org/</link>
+    <link>https://oatcat.org/</link>
     <description>Recent content in Oatcat on Oatcat Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Oatcat</copyright>
-    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://oatcat.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://oatcat.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://oatcat.org/about/</link>
+      <link>https://oatcat.org/about/</link>
       <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://oatcat.org/about/</guid>
+      <guid>https://oatcat.org/about/</guid>
       
       
       
@@ -40,10 +40,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://oatcat.org/2022/02/hello-world/</link>
+      <link>https://oatcat.org/2022/02/hello-world/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://oatcat.org/2022/02/hello-world/</guid>
+      <guid>https://oatcat.org/2022/02/hello-world/</guid>
       
       
       
@@ -60,7 +60,7 @@
             </p>
           
           <h2 id="hello-world-----said-by-oatcat" class="link-owner">
-  <a href="http://oatcat.org/2022/02/hello-world/#hello-world-----said-by-oatcat" class="link">
+  <a href="https://oatcat.org/2022/02/hello-world/#hello-world-----said-by-oatcat" class="link">
       <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Link</title><path fill="none" d="M208 352h-64a96 96 0 010-192h64M304 160h64a96 96 0 010 192h-64M163.29 256h187.42" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="36"/></svg>
   </a><em><strong>&ldquo;Hello World&rdquo; &mdash; said by oatcat</strong></em>
 </h2><p>brbrbr</p>
@@ -79,10 +79,10 @@
     
     <item>
       <title>Archive</title>
-      <link>http://oatcat.org/archive/</link>
+      <link>https://oatcat.org/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://oatcat.org/archive/</guid>
+      <guid>https://oatcat.org/archive/</guid>
       
       
       
@@ -107,10 +107,10 @@
     
     <item>
       <title>Resume</title>
-      <link>http://oatcat.org/resume/</link>
+      <link>https://oatcat.org/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://oatcat.org/resume/</guid>
+      <guid>https://oatcat.org/resume/</guid>
       
       
       
