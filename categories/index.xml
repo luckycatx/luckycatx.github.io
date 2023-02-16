@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Oatcat Blog</title>
-    <link>https://luckycatx.github.io/categories/</link>
+    <link>http://oatcat.org/categories/</link>
     <description>Recent content in Categories on Oatcat Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Oatcat</copyright>
-    <lastBuildDate>Sat, 12 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://luckycatx.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://oatcat.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://luckycatx.github.io/categories/hello-world/</link>
+      <link>http://oatcat.org/categories/hello-world/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://luckycatx.github.io/categories/hello-world/</guid>
+      <guid>http://oatcat.org/categories/hello-world/</guid>
       <description></description>
     </item>
     

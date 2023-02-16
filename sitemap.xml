@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://luckycatx.github.io/about/</loc>
+    <loc>http://oatcat.org/about/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luckycatx.github.io/</loc>
+    <loc>http://oatcat.org/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luckycatx.github.io/blog/</loc>
+    <loc>http://oatcat.org/blog/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luckycatx.github.io/categories/</loc>
+    <loc>http://oatcat.org/categories/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luckycatx.github.io/tags/hello-world/</loc>
+    <loc>http://oatcat.org/tags/hello-world/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luckycatx.github.io/categories/hello-world/</loc>
+    <loc>http://oatcat.org/categories/hello-world/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luckycatx.github.io/2022/02/hello-world/</loc>
+    <loc>http://oatcat.org/2022/02/hello-world/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luckycatx.github.io/tags/</loc>
+    <loc>http://oatcat.org/tags/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luckycatx.github.io/archive/</loc>
+    <loc>http://oatcat.org/archive/</loc>
   </url><url>
-    <loc>https://luckycatx.github.io/resume/</loc>
+    <loc>http://oatcat.org/resume/</loc>
   </url>
 </urlset>
