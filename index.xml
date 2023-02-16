@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oatcat on Oatcat Blog</title>
+    <link>https://luckycatx.github.io/</link>
+    <description>Recent content in Oatcat on Oatcat Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2023 Oatcat</copyright>
+    <lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://luckycatx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://luckycatx.github.io/about/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://luckycatx.github.io/about/</guid>
+      
+      
+      
+      
+      
+      
+      
+      <description>
+          <![CDATA[ 
+          
+          <p>Too lazy to write the description.</p>
+<p><strong>🍁Made by <a href="https://github.com/LuckyCatx" title="Lucky" target="_blank" rel="nofollow noopener">Lucky</a>🍁</strong></p>
+
+          
+          
+          
+          
+          
+          ]]>
+      </description>
+
+
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://luckycatx.github.io/2022/02/hello-world/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://luckycatx.github.io/2022/02/hello-world/</guid>
+      
+      
+      
+      
+      
+      
+      
+      <description>
+          <![CDATA[ 
+          
+          
+            <p>
+              <img align="left" hspace="5" src="/2022/02/hello-world/hello-world_hua374090e6476c89cf5c633c9ddec0791_8382_0x550_resize_q100_h2_box.webp"/>
+            </p>
+          
+          <h2 id="hello-world-----said-by-oatcat" class="link-owner">
+  <a href="https://luckycatx.github.io/2022/02/hello-world/#hello-world-----said-by-oatcat" class="link">
+      <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Link</title><path fill="none" d="M208 352h-64a96 96 0 010-192h64M304 160h64a96 96 0 010 192h-64M163.29 256h187.42" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="36"/></svg>
+  </a><em><strong>&ldquo;Hello World&rdquo; &mdash; said by oatcat</strong></em>
+</h2><p>brbrbr</p>
+<p> </p>
+
+          
+          
+          
+          
+          
+          ]]>
+      </description>
+
+
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://luckycatx.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luckycatx.github.io/archive/</guid>
+      
+      
+      
+      
+      
+      
+      
+      <description>
+          <![CDATA[ 
+          
+          
+          
+          
+          
+          
+          
+          ]]>
+      </description>
+
+
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://luckycatx.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luckycatx.github.io/resume/</guid>
+      
+      
+      
+      
+      
+      
+      
+      <description>
+          <![CDATA[ 
+          
+          
+          
+          
+          
+          
+          
+          ]]>
+      </description>
+
+
+    </item>
+    
+  </channel>
+</rss>
